@@ -6,8 +6,9 @@ Object.keys(_c).forEach(c =>global[c] = s =>`\x1b[${_c[c][0]}m${s}\x1b[${_c[c][1
 
 const lines = [
   bold("Felix Koschmidder"),
-  "Frontend Engineer",
+  red("- Frontend Engineer -"),
   "",
+  bold("      Work: ") + "@Kaiser X Labs",
   bold("       Web: ") + blue("http://fkoschi.me"),
   bold("    GitHub: ") + blue("https://github.com/funkyfelix"),
   bold("  LinkedIn: ") + blue("https://linkedin.com/in/felix-koschmidder")
