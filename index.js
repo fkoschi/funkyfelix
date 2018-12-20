@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const boxen = require('boxen');
 
 const _c = require('util').inspect.colors;

@@ -9,7 +9,9 @@
   "dependencies": {
     "boxen": "^2.1.0"
   },
-  "devDependencies": {},
   "author": "Felix Koschmidder",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
 }
