@@ -1,0 +1,15 @@
+{
+  "name": "funkyfelix",
+  "version": "1.0.0",
+  "description": "Felix Koschmidder",
+  "main": "index.js",
+  "bin": {
+    "funkyfelix": "index.js"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0"
+  },
+  "devDependencies": {},
+  "author": "Felix Koschmidder",
+  "license": "ISC"
+}
